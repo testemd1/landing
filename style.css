@@ -1,0 +1,50 @@
+body{
+  margin: 0px;
+  color: black;
+  background: rgb(245,245,245);
+
+}
+h1 {
+  font-family: courier;
+  color: rgb(212,57,43);
+}
+
+p{
+	color: blue;
+	font-size: 16px; 
+	line-height: 20px;
+}
+a{
+color: #C8E087
+}
+a:hover{color: blue;
+}
+
+#header{
+padding-top: 150px;
+padding-bottom: 150px;
+text-align: center;
+background-image:url(image/icecream3.jpg);
+background-size: cover;
+}
+
+.avantages h2{
+	color: red
+}
+
+#suiveznous{
+	padding-top: 150px;
+padding-bottom: 150px;
+text-align: center;
+background-image:url(image/icecream4.jpg);
+background-size: cover;
+}
+
+
+.lequipe img{
+	width: 200px;
+}
+
+.img-shadow{
+	box-shadow: 2px 3px 4px lightgrey;	
+}
