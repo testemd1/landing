@@ -31,6 +31,10 @@ background-size: cover;
 .avantages h2{
 	color: red
 }
+.padding{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
 
 #suiveznous{
 	padding-top: 150px;
